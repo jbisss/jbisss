@@ -1,7 +1,10 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" width="300"/>
 </div>
-### Hi there 👋
+
+<div id="header" align="center">
+  Hi there 👋
+</div>
 
 <!--
 **jbisss/jbisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
