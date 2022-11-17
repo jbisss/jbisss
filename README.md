@@ -3,17 +3,18 @@
 </div>
 
 <h1 align="center">
-    Hi there 👋
+    Hi there <img src = "https://media.giphy.com/media/m0dmKBkncVETJv2h0S/giphy.gif" width = 50>
 </h1>
 
 ### :man_technologist: About Me :
 
-  I'm a student <img src = "https://media.giphy.com/media/083bwYyXVGxUgTiklG/giphy.gif" width = 50>
-
+  <b>I'm a student</b> <img src = "https://media.giphy.com/media/1Pn9VCFR6LxWDJaTvq/giphy.gif" width = 50>
+  <b>
   - 😎 I'm interested in backend
   - 🤖 In my free time, I'm solving problems on LeetCode and doing SQL exercises on different resources
   - 🙌 I'm making interesting pet-projects
-
+  </b>
+  
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
