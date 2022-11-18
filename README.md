@@ -29,8 +29,7 @@
     <img src = "https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="70" height="70"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="70" height="70"/>&nbsp;
     <img src = "https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="JB" alt="JB" width="70" height="70"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>&nbsp;
-    <img src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="70" height="70"/>
+    <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="70" height="70"/>
   </div>
 </div>
 
